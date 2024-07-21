@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetan-m26
 - 👀 I’m interested in MERN & DEVOPS.
-- 🌱 I’m currently Pursuing in BCA, MERN & DEVOPS.
+- 🌱 I’m currently Pursuing in BCA & MERN.
 - 💞️ I’m looking to collaborate on MERN & DEVOPS.
 - 📫 How to reach me chetanmangalagatti7@gmail.com 
