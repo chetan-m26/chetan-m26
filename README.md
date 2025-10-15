@@ -2,4 +2,4 @@
 - 👀 I’m interested in Devops | AWS
 - 🌱 I’m currently Pursuing in BCA.
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects in DevOps, AWS, and Full Stack Development.
-- 📫 Reach me at chetanmangalagatti7@gmail.com 
+- 📫 Reach me at chetan.mm25@gmail.com 
