@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chetan
-- 👀 I’m interested in Full Stack
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently Pursuing in BCA.
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects in Full Stack Development.
 - 📫 Reach me at chetan.mm25@gmail.com 
